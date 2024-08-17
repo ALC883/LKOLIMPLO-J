@@ -1,0 +1,22 @@
+{
+  "name": "TGUploaderPro",
+  "description": "TGUploaderPro es un bot simple,facil y rapido, destinado a la descarga y subida de contenido gratis en cuba.",
+  "env": {
+    "bot_token": {
+      "description": "Token del bot",
+      "value": ""
+    },
+    "api_id": {
+      "description": "api id de telegram",
+      "value": ""
+    },
+    "api_hash": {
+      "description": "api hash de telegram",
+      "value": ""
+    },
+    "admins": {
+      "description": "@ de admins de telegram separados por ,",
+      "value": "legidev"
+    }
+  }
+}
